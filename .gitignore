@@ -1,0 +1,9 @@
+*.onnx
+*.db
+*.dll
+__pycache__/
+*.pyc
+*.wav
+*.mp3
+ttsenv*/
+piper/voices/
